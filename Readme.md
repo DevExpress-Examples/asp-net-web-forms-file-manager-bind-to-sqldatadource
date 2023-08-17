@@ -3,17 +3,15 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4440)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# File Manager for ASP.NET Web Forms - How to bind the File Manager to SqlDataSource
+
+This example illustrates how to bind [ASPxFileManager](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxFileManager) to SqlDataSource.
+
+## Files to Review
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
-# ASPxFileManager - How to bind ASPxFileManager to SqlDataSource
 
+## More Examples
 
-<p>This example illustrates how to bind ASPxFileManager to SqlDataSource.</p><p><a href="https://www.devexpress.com/Support/Center/p/E4426">E4426: ASPxFileManager - How to bind ASPxFileManager to AccessDataSource</a></p>
-
-<br/>
-
-
+* [How to bind the File Manager to AccessDataSource](https://github.com/DevExpress-Examples/aspxfilemanager-how-to-bind-aspxfilemanager-to-accessdatasource-e4426)
