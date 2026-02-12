@@ -17,7 +17,7 @@ This example illustrates how to bind [ASPxFileManager](https://docs.devexpress.c
 
 * [How to bind the File Manager to AccessDataSource](https://github.com/DevExpress-Examples/aspxfilemanager-how-to-bind-aspxfilemanager-to-accessdatasource-e4426)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-file-manager-bind-to-sqldatadource&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-file-manager-bind-to-sqldatadource&~~~was_helpful=no)
 
